@@ -1,0 +1,5 @@
+<svg viewBox="0 0 200 60" xmlns="http://www.w3.org/2000/svg">
+  <rect width="200" height="60" fill="#003366"/>
+  <text x="100" y="38" text-anchor="middle" font-family="Georgia, serif" font-size="28" font-weight="700" fill="white">BUP</text>
+  <text x="100" y="52" text-anchor="middle" font-family="Inter, sans-serif" font-size="8" fill="#cce0f5">Bangladesh University of Professionals</text>
+</svg>

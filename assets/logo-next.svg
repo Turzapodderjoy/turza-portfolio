@@ -1,0 +1,5 @@
+<svg viewBox="0 0 200 50" xmlns="http://www.w3.org/2000/svg">
+  <text x="100" y="32" text-anchor="middle" font-family="Georgia, serif" font-size="28" font-weight="700" fill="#1c1b15">NEXT Ventures</text>
+  <rect x="95" y="38" width="10" height="10" fill="#ED1E3E" transform="rotate(45 100 43)"/>
+  <text x="100" y="48" text-anchor="middle" font-family="Inter, sans-serif" font-size="7" fill="#625d51">Global Fintech Group</text>
+</svg>

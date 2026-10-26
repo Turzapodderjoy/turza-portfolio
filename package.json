@@ -1,0 +1,14 @@
+{
+  "name": "turza-portfolio",
+  "private": true,
+  "version": "2.0.0",
+  "description": "Portfolio site for Turza Podder Joy — Denials Manager & Operations Analyst",
+  "scripts": {
+    "build": "esbuild src/main.ts --bundle --minify --target=es2019 --format=iife --outfile=script.js",
+    "dev": "esbuild src/main.ts --bundle --target=es2019 --format=iife --outfile=script.js --watch",
+    "serve": "python3 -m http.server 8090"
+  },
+  "devDependencies": {
+    "esbuild": "^0.25.0"
+  }
+}
